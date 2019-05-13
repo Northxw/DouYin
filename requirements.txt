@@ -1,0 +1,5 @@
+mitmproxy>=4.0.4
+requests>=2.21.0
+pymongo>=3.7.2
+lxml>=4.3.2
+selenium=3.141.0
